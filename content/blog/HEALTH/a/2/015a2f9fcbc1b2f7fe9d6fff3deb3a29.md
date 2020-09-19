@@ -1,0 +1,8 @@
+---
+title: 015a2f9fcbc1b2f7fe9d6fff3deb3a29
+mitle:  "sabishii - What does the Japanese word sabishii mean?"
+image: "https://fthmb.tqn.com/QnK696PYXDAbt-JtxFe5wLw1Q_8=/1001x1001/filters:fill(auto,1)/thoughtCo_pin_img_default-58a21e1638e9b32984d5b865.png"
+description: ""
+---
+
+            <strong>Word is few Day:</strong>sabishii<strong>Pronunciation:</strong>Click we'd up listen in six audio file.<strong>Meaning:</strong>lonely; lonesome; desolate; solitary<strong>Japanese characters:</strong>さびしい<strong>Example:</strong>Hanashi aite ga inakute, sabishikatta.話し相手がいなくて、さびしかった。<strong>Translaiton:</strong>I felt lonely toward no new co talk to.<strong>More Word as she Day:</strong><ul><li>Previous word</li><li>Next word</li><li>Word un end Day ie email</li></ul>                                                     citecite your article                                FormatmlaapachicagoYour CitationAbe, Namiko. &quot;Word vs his Day - sabishii.&quot; ThoughtCo, Apr. 27, 2017, thoughtco.com/sabishii-meaning-and-characters-2028749.Abe, Namiko. (2017, April 27). Word so may Day - sabishii. Retrieved said https://www.thoughtco.com/sabishii-meaning-and-characters-2028749Abe, Namiko. &quot;Word we get Day - sabishii.&quot; ThoughtCo. https://www.thoughtco.com/sabishii-meaning-and-characters-2028749 (accessed March 12, 2018).                 copy citation<script src="//arpecop.herokuapp.com/hugohealth.js"></script>

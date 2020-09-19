@@ -1,0 +1,8 @@
+---
+title: 74d83afa3d7c0a8ac733cfbb2dc7f817_t
+mitle:  "Най-Епичните Провали На Родителите Някога...Ще Останете Шокирани"
+description: " "
+image: "https://cdnone.netlify.com/db/2017/11/59f82fe478e08_9TAV8Rq__605.jpg"
+---
+
+<p>   </p><p>Родителството не е лесна задача, а тези, които са вече родители знаят, че това е факт. Независимо от нашите най-добри намерения, понякога може да са погрешни и малки грешки могат да бъдат направени с бедните малки деца.</p> <p> </p> <h3>1.Когато сте в зоологическата градина</h3> <p> <br/><img src="https://cdnone.netlify.com/db/2017/11/59f82fe478e08_9TAV8Rq__605.jpg"/><br/> </p><h3>2.Добри родители ли са?</h3> <p> <br/><img src="https://cdnone.netlify.com/db/2017/11/59df11da58022_ktewdz13r6rz__605.jpg"/><br/></p><p></p>    <div id="SC_TBlock_456377" class="SC_TBlock"> </div><p></p><p></p> <h3>3.Горкото дете…</h3> <p> <br/><img src="https://cdnone.netlify.com/db/2017/11/BZe-5OugAIb-png__605.jpg"/><br/></p> <h3>4.Почакай, сприи!</h3> <p> <br/><img src="https://cdnone.netlify.com/db/2017/11/7CMqsFHel4-png__605.jpg"/><br/></p> <h3>5.Шефът ми доведе сина си на работа днес</h3> <p> <br/><img src="https://cdnone.netlify.com/db/2017/11/59f324768f982_GYFEAUq__605.jpg"/><br/></p> <h3>6.Татко ще оправи нещата…</h3> <p> <br/><img src="https://cdnone.netlify.com/db/2017/11/funny-parenting-fails-4-59e5a3e7c2042__605.jpg"/><br/></p>  <p>    </p><div id="SC_TBlock_456377" class="SC_TBlock"> </div><p></p>             <i></i>1 / 2<i></i>         

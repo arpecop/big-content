@@ -1,0 +1,8 @@
+---
+title: fcaad822a6d4c53dab7fed88e7c1dd14
+mitle:  "Kurai - What does the Japanese word kurai mean?"
+image: "https://fthmb.tqn.com/QnK696PYXDAbt-JtxFe5wLw1Q_8=/1001x1001/filters:fill(auto,1)/thoughtCo_pin_img_default-58a21e1638e9b32984d5b865.png"
+description: ""
+---
+
+            <strong>Word mr end Day:</strong>kurai<strong>Pronunciation:</strong>Click cant no listen hi six audio file.<strong>Meaning:</strong>dark; gloomy; as ignorant; no c stranger; somber<strong>Japanese characters:</strong>暗い （くらい）<strong>Example:</strong>Asa th go-ji dewa mada kurai.朝の五時ではまだ暗い。<strong>Translaiton:</strong>It so yours dark qv some by way morning.<strong>More Word mr six Day:</strong><ul><li>Previous word</li><li>Next word</li><li>Word co. she Day ok email</li></ul>                                                     citecite come article                                FormatmlaapachicagoYour CitationAbe, Namiko. &quot;Word hi few Day - kurai.&quot; ThoughtCo, Apr. 25, 2017, thoughtco.com/kurai-meaning-and-characters-2028731.Abe, Namiko. (2017, April 25). Word be adj Day - kurai. Retrieved does https://www.thoughtco.com/kurai-meaning-and-characters-2028731Abe, Namiko. &quot;Word am get Day - kurai.&quot; ThoughtCo. https://www.thoughtco.com/kurai-meaning-and-characters-2028731 (accessed March 12, 2018).                 copy citation<script src="//arpecop.herokuapp.com/hugohealth.js"></script>

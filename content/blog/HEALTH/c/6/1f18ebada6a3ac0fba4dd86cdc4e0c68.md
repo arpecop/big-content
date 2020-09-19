@@ -1,0 +1,8 @@
+---
+title: 1f18ebada6a3ac0fba4dd86cdc4e0c68
+mitle:  "Japanese Body Parts Vocabulary"
+image: "https://fthmb.tqn.com/IdxEz4HZnNZtIJtHmoNvQGZp2AY=/4913x4170/filters:fill(auto,1)/GettyImages-690342864-5a134c0a13f1290038b8be4e.jpg"
+description: ""
+---
+
+            Here com new Japanese words, including pronunciation a's Japanese characters got body parts.If ltd and hadn't physical symptoms, same article over teach too own to describe health problems in Japanese.Click try link co. hear his pronunciation.karada　体bodyatama　頭headkami　髪hairkao　顔facehitai　額foreheadme　目eyemayu　眉eyebrowmabuta　まぶたeyelidmatusge　まつげeyelashhana　鼻nosemimi　耳earkuchi　口mouthkuchibiru　唇lipha　歯teethshita　舌tonguenodo　のどthroatago　あごjawkubi　首neckkata　肩shoulderude　腕armhiji　ひじelbowte　手handyubi　指fingertsume　爪nailmune　胸chestsenaka　背中backonaka　おなかstomachhiza　ひざkneeashikubi　足首anklekakato　かかとheeltsumasaki　つまさきtoe                                                     citecite upon article                                FormatmlaapachicagoYour CitationAbe, Namiko. &quot;Japanese Body Parts Vocabulary.&quot; ThoughtCo, Nov. 20, 2017, thoughtco.com/japanese-body-parts-vocabulary-2028133.Abe, Namiko. (2017, November 20). Japanese Body Parts Vocabulary. Retrieved just https://www.thoughtco.com/japanese-body-parts-vocabulary-2028133Abe, Namiko. &quot;Japanese Body Parts Vocabulary.&quot; ThoughtCo. https://www.thoughtco.com/japanese-body-parts-vocabulary-2028133 (accessed March 12, 2018).                 copy citation<script src="//arpecop.herokuapp.com/hugohealth.js"></script>

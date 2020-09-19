@@ -1,0 +1,8 @@
+---
+title: 35cd7bf4ce70b98d1f5b9c8cb67d6cda_t
+mitle:  "16 Малки Детайла, За Които Никой Не Ви Спомена, Когато Си Взимахте Котка"
+description: ""
+image: "https://cdnone.netlify.com/db/2017/06/sub-buzz-20777-1495723976-1.png"
+---
+
+<p>   </p><p>Котките са чудесни животни и се отглездат сравнително лесно, но не всеки е подготвен за някои особености на тези домашни любимци. Ако все още се чудите какъв да е домашния ви клюбимец, запознайте се с изненадите на котките.</p> <p>Не знаете, че котките имат по няколко живота</p> <p> <br/><img src="https://cdnone.netlify.com/db/2017/06/sub-buzz-20777-1495723976-1.png"/></p> <p>Никой не ви е казал, че се стряскат много лесно</p> <p> <br/><img src="https://cdnone.netlify.com/db/2017/06/sub-buzz-15184-1495654971-3.jpg"/><br/> </p><p>Не занете и колко е забавно за котката да събаря всякакви неща по пода</p><p></p>    <div id="SC_TBlock_456377" class="SC_TBlock"> </div><p></p><p></p> <p> <br/><img src="https://cdnone.netlify.com/db/2017/06/sub-buzz-6599-1495723627-5.png"/></p> <p>Относно растенията, не се заблуждавайте, че се разбират с котките.</p> <p> <br/><img src="https://cdnone.netlify.com/db/2017/06/sub-buzz-14744-1495726924-1.jpg"/><br/></p> <p>Тази котка е убила растението и танцува върху гроба му!!!</p> <p>Всяка буболечка, влязла в дома ви, ще бъде намерена от котката</p> <p> <br/><img src="https://img.buzzfeed.com/buzzfeed-static/static/2017-05/24/16/asset/buzzfeed-prod-fastlane-02/anigif_sub-buzz-27980-1495657772-13.gif?no-auto"/></p>  <p>    </p><div id="SC_TBlock_456377" class="SC_TBlock"> </div><p></p>             <i></i>1 / 4<i></i>         
