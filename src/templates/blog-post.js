@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Links from "./links"
 import { rhythm } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
@@ -65,6 +66,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </li>
         </ul>
       </nav>
+      <Links />
     </Layout>
   )
 }
