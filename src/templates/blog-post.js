@@ -66,7 +66,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </li>
         </ul>
       </nav>
-      <Links />
+      <Links></Links>
     </Layout>
   )
 }
