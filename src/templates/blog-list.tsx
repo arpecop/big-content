@@ -20,7 +20,9 @@ type Data = {
       node: {
         excerpt: string
         frontmatter: {
-          mitle: string
+          title: string
+          date: string
+          description: string
         }
         fields: {
           slug: string
@@ -112,7 +114,11 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(limit: $limit, skip: $skip) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: $limit
+      skip: $skip
+    ) {
       edges {
         node {
           excerpt
@@ -121,6 +127,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             mitle
+            description
           }
         }
       }

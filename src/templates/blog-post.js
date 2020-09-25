@@ -1,9 +1,9 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-
+ 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -23,8 +23,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               marginBottom: 0,
             }}
           >
-            {post.frontmatter.title}
+            {post.frontmatter.mitle}
           </h1>
+   
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
@@ -32,6 +33,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: rhythm(1),
           }}
         />
+  
       </article>
 
       <nav>
@@ -47,14 +49,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+                ← {previous.frontmatter.mitle}
               </Link>
             )}
           </li>
           <li>
             {next && (
               <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
+                {next.frontmatter.mitle} →
               </Link>
             )}
           </li>
@@ -79,6 +81,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         mitle
+        description
       }
     }
   }
