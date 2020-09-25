@@ -20,9 +20,7 @@ type Data = {
       node: {
         excerpt: string
         frontmatter: {
-          title: string
-          date: string
-          description: string
+          mitle: string
         }
         fields: {
           slug: string
@@ -50,7 +48,7 @@ const BlogIndex = ({
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
       {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
+        const title = node.frontmatter.mitle || node.fields.slug
         return (
           <article key={node.fields.slug}>
             <header>
@@ -63,7 +61,6 @@ const BlogIndex = ({
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
             </header>
             <section>
               <p
@@ -88,14 +85,14 @@ const BlogIndex = ({
         >
           <li>
             {!isFirst && (
-              <Link to={prevPage} rel="prev">
+              <Link to={"/" + prevPage} rel="prev">
                 ← Previous Page
               </Link>
             )}
           </li>
           <li>
             {!isLast && (
-              <Link to={nextPage} rel="next">
+              <Link to={"/" + nextPage} rel="next">
                 Next Page →
               </Link>
             )}
@@ -115,11 +112,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
-      limit: $limit
-      skip: $skip
-    ) {
+    allMarkdownRemark(limit: $limit, skip: $skip) {
       edges {
         node {
           excerpt
@@ -127,9 +120,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-            description
+            mitle
           }
         }
       }

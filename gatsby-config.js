@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: "/leonids",
   siteMetadata: {
-    title: `Leonids`,
+    title: `arpecop`,
     author: {
       name: `@ry_zou`,
       summary: `web dev`,
@@ -55,7 +55,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-62251910-1`,
+        trackingId: `UA-29127191-2`,
       },
     },
     `gatsby-plugin-feed`,

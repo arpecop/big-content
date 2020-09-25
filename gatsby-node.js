@@ -8,17 +8,14 @@ exports.createPages = async ({ graphql, actions }) => {
   const result = await graphql(
     `
       {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-          limit: 1000
-        ) {
+        allMarkdownRemark(limit: 10000) {
           edges {
             node {
               fields {
                 slug
               }
               frontmatter {
-                title
+                mitle
               }
             }
           }
@@ -50,7 +47,7 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
   // Create blog post list pages
-  const postsPerPage = 5
+  const postsPerPage = 20
   const numPages = Math.ceil(posts.length / postsPerPage)
 
   Array.from({ length: numPages }).forEach((_, i) => {
