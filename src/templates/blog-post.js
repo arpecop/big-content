@@ -1,43 +1,50 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
+import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Links from "./links"
-import { rhythm } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
+  // const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
-  console.log(previous)
+
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title="Home">
       <SEO
-        title={post.frontmatter.mitle}
+        title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <article itemScope itemType="http://schema.org/Article">
+      <article>
         <header>
           <h1
-            itemProp="headline"
             style={{
-              marginTop: rhythm(1),
               marginBottom: 0,
             }}
           >
-            {post.frontmatter.mitle}
+            {post.frontmatter.title}
           </h1>
+          <p
+            style={{
+              ...scale(-1 / 5),
+              display: `block`,
+              marginBottom: rhythm(1),
+            }}
+          >
+            {post.frontmatter.date}
+          </p>
         </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          itemProp="articleBody"
-        />
+        <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
             marginBottom: rhythm(1),
           }}
         />
+        <footer>
+          <Bio />
+        </footer>
       </article>
 
       <nav>
@@ -53,20 +60,19 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.mitle}
+                ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
               <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.mitle} →
+                {next.frontmatter.title} →
               </Link>
             )}
           </li>
         </ul>
       </nav>
-      <Links></Links>
     </Layout>
   )
 }
@@ -85,7 +91,9 @@ export const pageQuery = graphql`
       excerpt(pruneLength: 160)
       html
       frontmatter {
-        mitle
+        title
+        date(formatString: "MMMM DD, YYYY")
+        description
       }
     }
   }

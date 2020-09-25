@@ -1,18 +1,17 @@
-const fs = require("fs")
-const gracefulFs = require("graceful-fs")
-gracefulFs.gracefulify(fs)
 module.exports = {
+  pathPrefix: "/leonids",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Leonids`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `@ry_zou`,
+      summary: `web dev`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
+    siteUrl: `https://renyuanz.github.io/leonids`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ry_zou`,
     },
+    defaultImage: "images/bg.jpeg",
   },
   plugins: [
     {
@@ -56,15 +55,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `AU-29127191-2`,
+        trackingId: `UA-62251910-1`,
       },
     },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Ryz`,
+        short_name: `Ryz`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
@@ -81,6 +80,8 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
+    "gatsby-plugin-dark-mode",
+    `gatsby-plugin-postcss`,
   ],
 }

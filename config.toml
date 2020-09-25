@@ -1,0 +1,52 @@
+baseurl         = "https://arpecop.gitlab.io/izteglisi/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 30
+#SectionPagesMenu = "main"
+canonifyurls    = true
+disableKinds=["RSS","sitemap"]
+ 
+
+[params]
+  title       = "IztegliSi"
+  subtitle    = ""
+  copyright   = "© 2018"
+
+  cover       = "img/pexels-photo-696680.jpeg"
+  description = "Забавно от фейсбук"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "rudixworld"
+  fbName = "arpecop"
+  githubName = "arpecop"
+  linkedinName = "arpecop"
+  mediumName = ""
+
+ 
+  orgName = "izteglisi.club"
+  orgWebsite = "https://izteglisi.club"
+  orgDescription = "Here is a description placeholder for your org"
+
+  showSupport = true
+
+  author = "rudix"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bulgaria, ID"
+  authorWebsite = "https://arpecop.github.io"
+  authorDescription = "Your description here"
+  pageNotFoundTitle = "404"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:title/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
