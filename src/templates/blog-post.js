@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
+import { rhythm } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -13,7 +13,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   return (
     <Layout location={location} title="Home">
       <SEO
-        title={post.frontmatter.title}
+        title={post.frontmatter.mitle}
         description={post.frontmatter.description || post.excerpt}
       />
       <article>
@@ -59,40 +59,16 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             )}
           </li>
         </ul>
-      </nav>
-      <div>
+
         <h2>Links</h2>
-        <a href="https://duh.netlify.com" style="margin-left: 15px;">
-          Blog
-        </a>
-        <a href="https://arpecop.xyz" style="margin-left: 15px;">
-          Вицове
-        </a>
-        <a
-          href="https://freeteenpicsandmovies.netlify.app"
-          style="margin-left: 15px;"
-        >
-          Free teen pics
-        </a>
-        <a href="https://rudixlab.com" style="margin-left: 15px;">
-          DevOps Bulgaria
-        </a>
-        <a href="https://novinata.netlify.app/" style="margin-left: 15px;">
-          Новини
-        </a>
-        <a href="https://news.rudixlab.com/" style="margin-left: 15px;">
-          Новини 2
-        </a>
-        <a href="https://bigblog.netlify.app/" style="margin-left: 15px;">
-          Big Blog
-        </a>
-        <a
-          href="https://arpecop.gitlab.io/izteglisi/"
-          style="margin-left: 15px;"
-        >
-          Izteglisi
-        </a>
-      </div>
+        <a href="https://duh.netlify.com">Blog </a>
+        <a href="https://arpecop.xyz">Вицове </a>
+        <a href="https://freeteenpicsandmovies.netlify.app">Free teen pics</a>
+        <a href="https://rudixlab.com">DevOps Bulgaria </a>
+        <a href="https://novinata.netlify.app/">Новини </a>
+        <a href="https://news.rudixlab.com/">Новини 2 </a>
+        <a href="https://arpecop.gitlab.io/izteglisi/">Izteglisi </a>
+      </nav>
     </Layout>
   )
 }
